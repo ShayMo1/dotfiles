@@ -6,7 +6,7 @@ tap "homebrew/services"
 tap "romkatv/powerlevel10k"
 brew "asdf"
 brew "direnv"
-brew "docker"
+cask "docker"
 brew "lastpass-cli"
 brew "libxml2"
 brew "mariadb", restart_service: true
