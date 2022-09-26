@@ -24,4 +24,5 @@ cask "iterm2"
 cask "itsycal"
 cask "phantomjs"
 cask "slack"
+brew "zoom"
 mas "Magnet", id: 441258766
