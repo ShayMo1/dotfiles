@@ -15,7 +15,7 @@ brew "redis", restart_service: true
 brew "tmux"
 brew "romkatv/powerlevel10k/powerlevel10k"
 cask "alfred"
-cask "atom"
+cask "visual-studio-code"
 cask "bartender"
 cask "dbeaver-community"
 cask "font-hack-nerd-font"
